@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "709976686856",
+    "project_id": "perpustakaan-ab75c",
+    "storage_bucket": "perpustakaan-ab75c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709976686856:android:25b1c5fea4ad2939b52cbd",
+        "android_client_info": {
+          "package_name": "com.dinus.perpustakaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709976686856-87k8ef5r2bnd1mjt88uv4n5qlndhsnes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinus.perpustakaan",
+            "certificate_hash": "54f069e98814b4eb43e9cd36fc17905e75e88294"
+          }
+        },
+        {
+          "client_id": "709976686856-24asaeopil4f6ti590udphb3kkgdjsn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC__kZCMrVkD5g4Jw5KnNKlEZwYzgLm7dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709976686856-24asaeopil4f6ti590udphb3kkgdjsn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
